@@ -1,10 +1,11 @@
 # Hi there, I'm Manish Sharma 👋
 
-I'm a DevOps Engineer with a passion for automation, cloud infrastructure, and CI/CD pipelines. Currently,
-I'm inturn at Celebal Technologies.
-<p align="left">
+I'm a DevOps Engineer with a passion for automation,<p align="left">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="DevOps Engineer" width="200" align="right">
 </p>
+cloud infrastructure, and CI/CD pipelines. Currently,
+I'm inturn at Celebal Technologies.
+
 🌱 I’m currently learning **Azure DevOps** and expanding my skills in cloud automation.
 
 💻 Check out my portfolio : [https://manish-g0u74m.github.io/Portfolio]
