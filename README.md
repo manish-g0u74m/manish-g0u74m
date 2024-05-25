@@ -1,13 +1,14 @@
 # Hi there, I'm Manish Sharma 👋
 
-I'm a DevOps Engineer with a passion for automation, cloud infrastructure, and CI/CD pipelines. Currently, I'm inturn at Celebal Technologies.
-
+I'm a DevOps Engineer with a passion for automation, cloud infrastructure, and CI/CD pipelines. Currently,
+I'm inturn at Celebal Technologies.
+<p align="left">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="DevOps Engineer" width="400" align="right">
+</p>
 🌱 I’m currently learning **Azure DevOps** and expanding my skills in cloud automation.
 
 💻 Check out my portfolio : [https://manish-g0u74m.github.io/Portfolio]
-<p align="left">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="DevOps Engineer" width="200" align="right">
-</p>
+
 
 - 🔭 I’m currently working on improving cloud deployments
 - 🌱 I’m currently learning Kubernetes and Terraform
@@ -27,7 +28,6 @@ I'm a DevOps Engineer with a passion for automation, cloud infrastructure, and C
 ## Manish Sharma's GitHub Stats
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manish-g0u74m&show_icons=true&theme=radical)
 
-Visitor Count
 <p align="center">
   [![Hits](https://hits.sh/github.com/manish-g0u74m.svg?style=for-the-badge&label=Visitor%20count&extraCount=204)](https://hits.sh/github.com/manish-g0u74m/)
 </p>
