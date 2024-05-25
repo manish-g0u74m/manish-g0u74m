@@ -25,4 +25,4 @@ I'm a DevOps Engineer with a passion for automation, cloud infrastructure, and C
 ## Manish Sharma's GitHub Stats
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manish-g0u74m&show_icons=true&theme=radical)
 
-https://hits.sh/github.com/manish-g0u74m.svg
+[![Hits](https://hits.sh/github.com/manish-g0u74m.svg)](https://hits.sh/github.com/manish-g0u74m/)
