@@ -12,7 +12,7 @@ I'm inturn at Celebal Technologies.
 
 
 
-💻 Check out my portfolio : [https://manish-g0u74m.github.io/Portfolio]
+💻 [Check out my portfolio] (https://manish-g0u74m.github.io/Portfolio)
 
 - 🔭 I’m currently working on improving cloud deployments
 - 🌱 I’m currently learning Kubernetes and Terraform
