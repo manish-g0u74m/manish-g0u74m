@@ -6,10 +6,11 @@ I'm a DevOps Engineer with a passion for automation,
 cloud infrastructure, and CI/CD pipelines. Currently,
 I'm inturn at Celebal Technologies.
 
-🌱 I’m currently learning **Azure DevOps** and expanding my skills in cloud automation.
+🌱 I’m currently learning **Azure DevOps** 
+    and expanding my skills in cloud automation.
+
 
 💻 Check out my portfolio : [https://manish-g0u74m.github.io/Portfolio]
-
 
 - 🔭 I’m currently working on improving cloud deployments
 - 🌱 I’m currently learning Kubernetes and Terraform
