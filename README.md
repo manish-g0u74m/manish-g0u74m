@@ -33,5 +33,5 @@ I'm inturn at Celebal Technologies.
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manish-g0u74m&show_icons=true&theme=radical)
 
 <p align="center">
-  [![Hits](https://hits.sh/github.com/manish-g0u74m.svg?style=for-the-badge&label=Visitor%20count&extraCount=204)](https://hits.sh/github.com/manish-g0u74m/)
+  <a href="https://hits.sh/github.com/manish-g0u74m/"><img alt="Hits" src="https://hits.sh/github.com/manish-g0u74m.svg?style=for-the-badge&label=Visitor%20count&extraCount=204"/></a>
 </p>
