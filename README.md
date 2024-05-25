@@ -5,6 +5,7 @@ I'm a DevOps Engineer with a passion for automation, cloud infrastructure, and C
 🌱 I’m currently learning **Azure DevOps** and expanding my skills in cloud automation.
 
 💻 Check out my portfolio : [https://manish-g0u74m.github.io/Portfolio]
+![DevOps Engineer](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 - 🔭 I’m currently working on improving cloud deployments
 - 🌱 I’m currently learning Kubernetes and Terraform
@@ -23,3 +24,5 @@ I'm a DevOps Engineer with a passion for automation, cloud infrastructure, and C
 
 ## Manish Sharma's GitHub Stats
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manish-g0u74m&show_icons=true&theme=radical)
+
+https://hits.sh/github.com/manish-g0u74m.svg
