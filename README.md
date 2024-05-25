@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Manish Sharma 👋
 
-<!--
-**manish-g0u74m/manish-g0u74m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps Engineer with a passion for automation, cloud infrastructure, and CI/CD pipelines. Currently, I'm inturn at [Celebal Technologies].
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on improving cloud deployments
+- 🌱 I’m currently learning Kubernetes and Terraform
+- 👯 I’m looking to collaborate on open-source DevOps projects
+- 🤔 I’m looking for help with integrating AI into DevOps
+- 💬 Ask me about DevOps, CI/CD, and cloud technologies
+- 📫 How to reach me: [manish6287@outlook.com](mailto:your-email@example.com)
+- ⚡ Fun facts: - 🚴‍♂️ Cycling and outdoor activities
+## Languages and Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## GitHub Stats
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishsharma&show_icons=true&theme=radical)
+
+## Achievements
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=manishsharma.visitor-badge)
+
+## Pinned Repositories
+[Virtual_Classroom](https://github.com/ManishSharma/Virtual_Classroom)
+A web application for online classrooms where you can create your own class
+
+[Annandan](https://github.com/ManishSharma/Annandan)
+This is a web application which will be a medium between people who are ...
