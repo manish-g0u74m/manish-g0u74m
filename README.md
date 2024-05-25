@@ -1,6 +1,6 @@
 # Hi there, I'm Manish Sharma 👋
 
-I'm a DevOps Engineer with a passion for automation, cloud infrastructure, and CI/CD pipelines. Currently, I'm inturn at [Celebal Technologies].
+I'm a DevOps Engineer with a passion for automation, cloud infrastructure, and CI/CD pipelines. Currently, I'm inturn at Celebal Technologies.
 
 - 🔭 I’m currently working on improving cloud deployments
 - 🌱 I’m currently learning Kubernetes and Terraform
@@ -18,14 +18,7 @@ I'm a DevOps Engineer with a passion for automation, cloud infrastructure, and C
 
 
 ## GitHub Stats
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishsharma&show_icons=true&theme=radical)
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manish-g0u74m&show_icons=true&theme=radical)
 
 ## Achievements
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=manishsharma.visitor-badge)
-
-## Pinned Repositories
-[Virtual_Classroom](https://github.com/ManishSharma/Virtual_Classroom)
-A web application for online classrooms where you can create your own class
-
-[Annandan](https://github.com/ManishSharma/Annandan)
-This is a web application which will be a medium between people who are ...
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=manish-g0u74m.visitor-badge)
