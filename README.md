@@ -28,9 +28,18 @@ I'm inturn at Celebal Technologies.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-
 ## Manish Sharma's GitHub Stats
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manish-g0u74m&show_icons=true&theme=radical)
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=manish-g0u74m&theme=dark&hide_border=false&include_all_commits=true&count_private=false" style="width: 400px; height: 200px;" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-g0u74m&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="width: 400px; height: 187px;" alt="Top Languages">
+</div>
+
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish-g0u74m&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+</div>
+
 
 <p align="center">
   <a href="https://hits.sh/github.com/manish-g0u74m/"><img alt="Hits" src="https://hits.sh/github.com/manish-g0u74m.svg?style=for-the-badge&label=Visitor%20count&extraCount=204"/></a>
