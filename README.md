@@ -29,10 +29,10 @@ I'm inturn at Celebal Technologies.
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## Manish Sharma's GitHub Stats
-<div style="display: flex;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manish-g0u74m&theme=dark&hide_border=false&include_all_commits=true&count_private=false" style="width: 400px; height: 200px;" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-g0u74m&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="width: 400px; height: 187px;" alt="Top Languages">
 </div>
+
 
 
 
